@@ -1,0 +1,997 @@
+   50  python3 main.py
+   51  python3 main.py
+   52  clear
+   53  python3 main.py
+   54  python3 main.py
+   55  clear
+   56  clear
+   57  python3 main.py
+   58  clear
+   59  python3 main.py
+   60  clear
+   61  python3 main.py
+   62  python3 main.py
+   63  clear
+   64  python3 main.py
+   65  python3 main.py
+   66  clear
+   67  python3 main.py
+   68  python3 main.py
+   69  python3 main.py
+   70  clear
+   71  python3 main.py
+   72  python3 main.py
+   73  clear
+   74  python3 main.py
+   75  clear
+   76  python3 main.py
+   77  clear
+   78  python3 main.py
+   79  python3 main.py
+   80  python3 main.py
+   81  clear
+   82  python3 main.py
+   83  python3 main.py
+   84  clear
+   85  python3 main.py
+   86  python3 main.py
+   87  python3 main.py
+   88  clear
+   89  python3 main.py
+   90  python3 main.py
+   91  python3 main.py
+   92  python3 main.py
+   93  python3 main.py
+   94  clear
+   95  clear
+   96  python3 main.py
+   97  python3 main.py
+   98  python3 main.py
+   99  clear
+  100  python3 main.py
+  101  python3 main.py
+  102  clear
+  103  python3 main.py
+  104  python3 main.py
+  105  python3 main.py
+  106  clear
+  107  python3 main.py
+  108  clear
+  109  python3 main.py
+  110  clear
+  111  python3 main.py
+  112  python3 main.py
+  113  clear
+  114  clear
+  115  python3 main.py
+  116  python3 main.py
+  117  clear
+  118  python3 main.py
+  119  python3 main.py
+  120  clear
+  121  python3 main.py
+  122  clear
+  123  python3 main.py
+  124  python3 main.py
+  125  clear
+  126  python3 main.py
+  127  clear
+  128  python3 main.py
+  129  python3 main.py
+  130  clear
+  131  python3 main.py
+  132  clear
+  133  python3 main.py
+  134  python3 main.py
+  135  python3 main.py
+  136  clear
+  137  python3 main.py
+  138  clear
+  139  python3 main.py
+  140  python3 main.py
+  141  clear
+  142  clear
+  143  python3 main.py
+  144  clear
+  145  python3 main.py
+  146  python3 main.py
+  147  clear
+  148  python3 main.py
+  149  clear
+  150  python3 main.py
+  151  python3 main.py
+  152  python3 main.py
+  153  clear
+  154  python3 main.py
+  155  python3 main.py
+  156  python3 hello_python.py
+  157  cd hello_python.py
+  158  cd hello_python
+  159  clear
+  160  cd Python_Project
+  161  cd hello_python.py
+  162  python3 hello_python.py
+  163  conda activate dev
+  164  python --version
+  165  python --version
+  166  update
+  167  python3 --version
+  168  code .
+  169  cleare
+  170  clear
+  171  python3 hello_python.py
+  172  python3 hello_python.py
+  173  conda deactivate
+  174  python3 hello_python.py
+  175  python3 hello_python.py
+  176  python3 hello_python.py
+  177  python3 hello_variable_world.py
+  178  python3 hello_variable_world.py
+  179  clear
+  180  python3 hello_variable_world.py
+  181  python3 hello_variable_world.py
+  182  python3 hello_variable_world.py
+  183  python3 hello_variable_world.py
+  184  python3 hello_variable_world.py
+  185  python3 hello_variable_world.py
+  186  python3 hello_variable_world.py
+  187  python3 listing_assets.py
+  188  python3 listing_assets.py
+  189  python3 listing_assets.py
+  190  python3 listing_assets.py
+  191  python3 listing_assets.py
+  192  python3 listing_assets.py
+  193  python3 listing_assets.py
+  194  python3 the_401k_shuffle
+  195  python3 the_401k_shuffle.py
+  196  clear
+  197  clear
+  198  python3 the_401k_shuffle.py
+  199  python3 the_401k_shuffle.py
+  200  python3 the_401k_shuffle.py
+  201  python3 the_401k_shuffle.py
+  202  clear
+  203  python3 the_401k_shuffle.py
+  204  python3 the_401k_shuffle.py
+  205  python3 the_401k_shuffle.py
+  206  python3 variables.py
+  207  python3 variables.py
+  208  clear
+  209  cd 01_lns_Variables
+  210  cd 01_ins_Variables
+  211  python3 variables.py
+  212  clear
+  213  python3 variables.py
+  214  cd Unsolved
+  215  python3 variables.py
+  216  python3 variables.py
+  217  python3 variables.py
+  218  python3 variables.py
+  219  /Users/chancegriffin/Downloads/Class_1_Activities/02_Stu_Percent_Increase
+  220  cd 02_Stu_Percent_Increase
+  221  cd 03_lns_Lists
+  222  cd 03_lns_Lists
+  223  python3 hello_python.py
+  224  cd  hello_python.py
+  225  cd Python_Project
+  226  cd  hello_python.py
+  227  python3 hello_python.py
+  228  python3 hello_python.py
+  229  python3 hello_python.py
+  230  python3 hello_python.py
+  231  python3 dicts.py
+  232  python3 conditional_statement.py
+  233  python3 nested_ conditionals.py
+  234  python3 nested_conditionals.py
+  235  python3 nested_conditionals.py
+  236  python3 nested_conditionals.py
+  237  python3 nested_conditionals.py
+  238  python3 nested_conditionals.py
+  239  python3 nested_conditionals.py
+  240  python3 nested_conditionals.py
+  241  python3 nested_conditionals.py
+  242  python3 nested_conditionals.py
+  243  python3 split_second_homebuying.py
+  244  python3 split_second_homebuying.py
+  245  python3 split_second_homebuying.py
+  246  python3 split_second_homebuying.py
+  247  python3 split_second_homebuying.py
+  248  python3 split_second_homebuying.py
+  249  python3 split_second_homebuying.py
+  250  python3 split_second_homebuying.py
+  251  python3 split_second_homebuying.py
+  252  clear
+  253  python3 split_second_homebuying.py
+  254  python3 split_second_homebuying.py
+  255  python3 split_second_homebuying.py
+  256  python3 split_second_homebuying.py
+  257  clear
+  258  python3 split_second_homebuying.py
+  259  python3 a_definitive_buy.py
+  260  clear
+  261  python3 a_definitive_buy.py
+  262  python3 a_definitive_buy.py
+  263  clear
+  264  python3 a_definitive_buy.py
+  265  python3 a_definitive_buy.py
+  266  python3 a_definitive_buy.py
+  267  python3 a_definitive_buy.py
+  268  python3 a_definitive_buy.py
+  269  cd conditional_statement.py
+  270  python3  conditional_statement.py
+  271  python3  conditional_statement.py
+  272  python3  conditional_statement.py
+  273  python3  conditional_statement.py
+  274  python3  conditional_statement.py
+  275  python3  conditional_statement.py
+  276  clear
+  277  python3  conditional_statement.py
+  278  python3  conditional_statement.py
+  279  python3  conditional_statement.py
+  280  clear
+  281  python3  conditional_statement.py
+  282  python3  conditional_statement.py
+  283  clear
+  284  python3  conditional_statement.py
+  285  python3  conditional_statement.py
+  286  python3  conditional_statement.py
+  287  python3 split_second_homebuying.py
+  288  clear
+  289  python3 split_second_homebuying.py
+  290  python3 split_second_homebuying.py
+  291  python3 split_second_homebuying.py
+  292  python3 split_second_homebuying.py
+  293  python3 split_second_homebuying.py
+  294  clear
+  295  python3 split_second_homebuying.py
+  296  python3 split_second_homebuying.py
+  297  python3 split_second_homebuying.py
+  298  python3 split_second_homebuying.py
+  299  python3 returned_goods.py
+  300  python3 returned_goods.py
+  301  python3 returned_goods.py
+  302  python3 returned_goods.py
+  303  cd Desktop
+  304  cd desktop
+  305  pwd
+  306  cd ~
+  307  pwd
+  308  code .
+  309  cd desktop
+  310  code .
+  311  cd Fintech-Workspace
+  312  code .
+  313  code .
+  314  clear
+  315  git pull
+  316  git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2022-U-B.git
+  317  python3 split_second_part_2.py
+  318  clear
+  319  clear
+  320  python3 split_second_part_2.py
+  321  python3 split_second_part_2.py
+  322  python3 split_second_part_2.py
+  323  python3 split_second_part_2.py
+  324  clear
+  325  clear
+  326  python3 split_second_part_2.py
+  327  python3 split_second_part_2.py
+  328  clear
+  329  clear
+  330  python3 split_second_part_2.py
+  331  python3 split_second_part_2.py
+  332  python3 split_second_part_2.py
+  333  clear
+  334  python3 split_second_part_2.py
+  335  python3 split_second_part_2.py
+  336  clear
+  337  python3 split_second_part_2.py
+  338  python3 split_second_part_2.py
+  339  python 3 
+  340  clear
+  341  python3 Activities/
+  342  clear
+  343  python3 returned_goods.py
+  344  python3 
+  345  python3 
+  346  python3 a_definitive_buy.py
+  347  python3 a_definitive_buy.py
+  348  python3 a_definitive_buy.py
+  349  python3 a_definitive_buy.py
+  350  clear
+  351  python3 a_definitive_buy.py
+  352  clear
+  353  python3 a_definitive_buy.py
+  354  python3 a_definitive_buy.py
+  355  clear
+  356  python3 a_definitive_buy.py
+  357  python3 a_definitive_buy.py
+  358  clear
+  359  python3 a_definitive_buy.py
+  360  cd Unsolved
+  361  python3 racking_up_the_profit.py
+  362  python3 racking_up_the_profit.py
+  363  clear
+  364  python3 racking_up_the_profit.py
+  365  python3 racking_up_the_profit.py
+  366  clear
+  367  clear
+  368  python3 racking_up_the_profit.py
+  369  python3 racking_up_the_profit.py
+  370  python3 racking_up_the_profit.py
+  371  clear
+  372  python3 racking_up_the_profit.py
+  373  python3 racking_up_the_profit.py
+  374  clear
+  375  python3 racking_up_the_profit.py
+  376  python3 racking_up_the_profit.py
+  377  python3 racking_up_the_profit.py
+  378  python3 racking_up_the_profit.py
+  379  clear
+  380  python3 racking_up_the_profit.py
+  381  clear
+  382  python3 racking_up_the_profit.py
+  383  python3 racking_up_the_profit.py
+  384  python3 racking_up_the_profit.py
+  385  clear
+  386  python3 racking_up_the_profit.py
+  387  python3 racking_up_the_profit.py
+  388  python3 racking_up_the_profit.py
+  389  clear
+  390  clear
+  391  python3 racking_up_the_profit.py
+  392  python3 racking_up_the_profit.py
+  393  clear
+  394  clear
+  395  python3 racking_up_the_profit.py
+  396  python3 racking_up_the_profit.py
+  397  python3 racking_up_the_profit.pyclear
+  398  clear
+  399  python3 racking_up_the_profit.pyclear
+  400  python3 racking_up_the_profit.py
+  401  python3 racking_up_the_profit.py
+  402  clear
+  403  python3 racking_up_the_profit.py
+  404  python3 racking_up_the_profit.py
+  405  clear
+  406  python3 racking_up_the_profit.py
+  407  python3 racking_up_the_profit.py
+  408  clear
+  409  python3 racking_up_the_profit.py
+  410  python3 racking_up_the_profit.pyclear
+  411  clear
+  412  python3 racking_up_the_profit.py
+  413  python3 racking_up_the_profit.py
+  414  clear
+  415  python3 racking_up_the_profit.py
+  416  python3 racking_up_the_profit.py
+  417  clear
+  418  python3 racking_up_the_profit.py
+  419  python3 racking_up_the_profit.py
+  420  python3 racking_up_the_profit.py
+  421  python3 racking_up_the_profit.py
+  422  python3 racking_up_the_profit.py
+  423  cd ..
+  424  cd Solved
+  425  python3 racking_up_the_profit.py
+  426  cd ..
+  427  cd Unsolved
+  428  python3 racking_up_the_profit.py
+  429  c ..
+  430  cd ..
+  431  clear
+  432  Unsolved
+  433  python3 racking_up_the_profit.py
+  434  clear
+  435  cd Unsolved
+  436  python3 racking_up_the_profit.py
+  437  python3 racking_up_the_profit.py
+  438  clear
+  439  python3 racking_up_the_profit.py
+  440  python3 racking_up_the_profit.py
+  441  python3 racking_up_the_profit.py
+  442  python3 racking_up_the_profit.py
+  443  python3 racking_up_the_profit.py
+  444  python3 racking_up_the_profit.py
+  445  python3 racking_up_the_profit.py
+  446  python3 racking_up_the_profit.py
+  447  clear
+  448  python3 racking_up_the_profit.py
+  449  python3 racking_up_the_profit.py
+  450  python3 racking_up_the_profit.py
+  451  clear
+  452  python3 racking_up_the_profit.py
+  453  python3 racking_up_the_profit.py
+  454  python3 racking_up_the_profit.py
+  455  python3 racking_up_the_profit.py
+  456  python3 pathways_to_success.py
+  457  python3 pathways_to_success.py
+  458  clear
+  459  python3 pathways_to_success.py
+  460  python3 pathways_to_success.py
+  461  python3 pathways_to_success.py
+  462  clear
+  463  python3 pathways_to_success.py
+  464  python3 pathways_to_success.py
+  465  python3 pathways_to_success.py
+  466  cd Unsolved
+  467  python3 automated_equity_rounds.py
+  468  clear
+  469  python3 automated_equity_rounds.py
+  470  python3 automated_equity_rounds.py
+  471  python3 automated_equity_rounds.py
+  472  clear
+  473  python3 automated_equity_rounds.py
+  474  python3 automated_equity_rounds.py
+  475  python3 automated_equity_rounds.py
+  476  clear
+  477  python3 automated_equity_rounds.py
+  478  python3 automated_equity_rounds.py
+  479  clear
+  480  python3 automated_equity_rounds.py
+  481  python3 automated_equity_rounds.py
+  482  python3 automated_equity_rounds.py
+  483  python3 pathways_to_success_part2.py
+  484  python3 clear
+  485  clear
+  486  python3 pathways_to_success_part2.py
+  487  clear
+  488  python3 pathways_to_success_part_2.py
+  489  python3 pathways_to_success_part_2.py
+  490  python3 pathways_to_success_part_2.py
+  491  python3 pathways_to_success_part_2.py
+  492  python3 pathways_to_success_part_2.py
+  493  python3 pathways_to_success_part_2.py
+  494  python3 loan_analyzer.py
+  495  clear
+  496  python3 loan_analyzer.py
+  497  clear
+  498  clear
+  499  python3 loan_analyzer.py
+  500  python3 loan_analyzer.py
+  501  clear
+  502  python3 loan_analyzer.py
+  503  python3 loan_analyzer.py
+  504  clear
+  505  python3 loan_analyzer.py
+  506  python3 loan_analyzer.py
+  507  clear
+  508  python3 loan_analyzer.py
+  509  python3 loan_analyzer.py
+  510  clear
+  511  python3 loan_analyzer.py
+  512  python3 loan_analyzer.py
+  513  clear
+  514  python3 loan_analyzer.py
+  515  clear
+  516  python3 loan_analyzer.py
+  517  python3 loan_analyzer.py
+  518  clear
+  519  python3 loan_analyzer.py
+  520  python3 loan_analyzer.py
+  521  clear
+  522  python3 loan_analyzer.py
+  523  python3 loan_analyzer.py
+  524  clear
+  525  python3 loan_analyzer.py
+  526  clear
+  527  python3 loan_analyzer.py
+  528  python3 loan_analyzer.py
+  529  clear
+  530  python3 loan_analyzer.py
+  531  python3 loan_analyzer.py
+  532  clear
+  533  python3 loan_analyzer.py
+  534  python3 loan_analyzer.py
+  535  clear
+  536  python3 loan_analyzer.py
+  537  python3 loan_analyzer.py
+  538   clear
+  539  python3 loan_analyzer.py
+  540  python3 loan_analyzer.py
+  541  clear
+  542  python3 loan_analyzer.py
+  543  python3 loan_analyzer.py
+  544  python3 loan_analyzer.py
+  545  python3 loan_analyzer.py
+  546  clear
+  547  python3 loan_analyzer.py
+  548  clear
+  549  python3 loan_analyzer.py
+  550  python3 loan_analyzer.py
+  551  python3 loan_analyzer.py
+  552  python3 loan_analyzer.py
+  553  python3 loan_analyzer.py
+  554  python3 loan_analyzer.py
+  555  python3 loan_analyzer.py
+  556  python3 loan_analyzer.py
+  557  python3 loan_analyzer.py
+  558  python3 loan_analyzer.py
+  559  python3 loan_analyzer.py
+  560  python3 loan_analyzer.py
+  561  clear
+  562  python3 loan_analyzer.py
+  563  python3 loan_analyzer.py
+  564  python3 loan_analyzer.py
+  565  python3 loan_analyzer.py
+  566  clear
+  567  python3 loan_analyzer.py
+  568  python3 loan_analyzer.py
+  569  python3 loan_analyzer.py
+  570  python3 loan_analyzer.py
+  571  clear
+  572  python3 loan_analyzer.py
+  573  python3 loan_analyzer.py
+  574  python3 loan_analyzer.py
+  575  python3 loan_analyzer.py
+  576  clear
+  577  python3 loan_analyzer.py
+  578  python3 loan_analyzer.py
+  579  python3 loan_analyzer.py
+  580  python3 loan_analyzer.py
+  581  python3 loan_analyzer.py
+  582  clear
+  583  python3 loan_analyzer.py
+  584  python3 loan_analyzer.py
+  585  clear
+  586  python3 loan_analyzer.py
+  587  python3 loan_analyzer.py
+  588  python3 loan_analyzer.py
+  589  python3 loan_analyzer.py
+  590  clear
+  591  python3 loan_analyzer.py
+  592  python3 loan_analyzer.py
+  593  python3 loan_analyzer.py
+  594  python3 loan_analyzer.py
+  595  clear
+  596  clear
+  597  python3 loan_analyzer.py
+  598  python3 loan_analyzer.py
+  599  python3 loan_analyzer.py
+  600  python3 loan_analyzer.py
+  601  clear
+  602  python3 loan_analyzer.py
+  603  python3 loan_analyzer.py
+  604  python3 loan_analyzer.py
+  605  python3 loan_analyzer.py
+  606  python3 loan_analyzer.py
+  607  python3 loan_analyzer.py
+  608  python3 loan_analyzer.py
+  609  python3 loan_analyzer.py
+  610  clear
+  611  clear
+  612  python3 loan_analyzer.py
+  613  python3 loan_analyzer.py
+  614  python3 loan_analyzer.py
+  615  python3 loan_analyzer.py
+  616  clear
+  617  python3 loan_analyzer.py
+  618  python3 loan_analyzer.py
+  619  python3 loan_analyzer.py
+  620  python3 loan_analyzer.py
+  621  python3 loan_analyzer.py
+  622  python3 loan_analyzer.py
+  623  python3 loan_analyzer.py
+  624  python3 loan_analyzer.py
+  625  python3 loan_analyzer.py
+  626  python3 loan_analyzer.py
+  627  python3 loan_analyzer.py
+  628  python3 loan_analyzer.py
+  629  python3 loan_analyzer.py
+  630  python3 loan_analyzer.py
+  631  python3 loan_analyzer.py
+  632  python3 loan_analyzer.py
+  633  python3 loan_analyzer.py
+  634  python3 loan_analyzer.py
+  635  python3 loan_analyzer.py
+  636  python3 loan_analyzer.py
+  637  python3 loan_analyzer.py
+  638  python3 loan_analyzer.py
+  639  python3 loan_analyzer.py
+  640  python3 loan_analyzer.py
+  641  python3 loan_analyzer.py
+  642  python3 loan_analyzer.py
+  643  python3 loan_analyzer.py
+  644  python3 loan_analyzer.py
+  645  python3 loan_analyzer.py
+  646  python3 loan_analyzer.py
+  647  python3 loan_analyzer.py
+  648  python3 loan_analyzer.py
+  649  python3 loan_analyzer.py
+  650  clear
+  651  python3 loan_analyzer.py
+  652  python3 loan_analyzer.py
+  653  python3 loan_analyzer.py
+  654  python3 loan_analyzer.py
+  655  python3 loan_analyzer.py
+  656  python3 loan_analyzer.py
+  657  python3 loan_analyzer.py
+  658  python3 loan_analyzer.py
+  659  python3 loan_analyzer.py
+  660  python3 loan_analyzer.py
+  661  python3 loan_analyzer.py
+  662  python3 loan_analyzer.py
+  663  python3 loan_analyzer.py
+  664  python3 loan_analyzer.py
+  665  python3 loan_analyzer.py
+  666  python3 loan_analyzer.py
+  667  python3 loan_analyzer.py
+  668  python3 loan_analyzer.py
+  669  clear
+  670  python3 loan_analyzer.py
+  671  python3 loan_analyzer.py
+  672  python3 loan_analyzer.py
+  673  python3 loan_analyzer.py
+  674  python3 loan_analyzer.py
+  675  python3 loan_analyzer.py
+  676  python3 loan_analyzer.py
+  677  python3 loan_analyzer.py
+  678  python3 loan_analyzer.py
+  679  python3 loan_analyzer.py
+  680  python3 loan_analyzer.py
+  681  python3 loan_analyzer.py
+  682  python3 loan_analyzer.py
+  683  python3 loan_analyzer.py
+  684  python3 loan_analyzer.py
+  685  python3 loan_analyzer.py
+  686  python3 loan_analyzer.py
+  687  python3 loan_analyzer.py
+  688  python3 loan_analyzer.py
+  689  clear
+  690  clear
+  691  python3 loan_analyzer.py
+  692  python3 loan_analyzer.py
+  693  python3 loan_analyzer.py
+  694  python3 loan_analyzer.py
+  695  python3 loan_analyzer.py
+  696  python3 loan_analyzer.py
+  697  python3 loan_analyzer.py
+  698  python3 loan_analyzer.py
+  699  python3 loan_analyzer.py
+  700  python3 loan_analyzer.py
+  701  python3 loan_analyzer.py
+  702  python3 loan_analyzer.py
+  703  python3 loan_analyzer.py
+  704  python3 loan_analyzer.py
+  705  f4f99872442255621e5c80df3cf173b76c7b79a5
+  706  clear
+  707  pip install jupyterlab
+  708  clear
+  709  jupyter lab
+  710  jupyter lab
+  711  conda activate dev
+  712  jupyter lab
+  713  cd Uncolved
+  714  cd Unsolved
+  715  python3 app.py
+  716  python3 app.py
+  717  python3 app.py
+  718  python3 app.py
+  719  cd Unsolved
+  720  python3 app.py
+  721  python3 app.py
+  722  python3 app.py
+  723  clear
+  724  python3 app.py
+  725  python3 app.py
+  726  python3 app.py
+  727  python3 app.py
+  728  activate conda dev
+  729  python3 app.py
+  730  python3 app.py
+  731  python3 app.py
+  732  clear
+  733  python3 app.py
+  734  python3 app.py
+  735  python3 app.py
+  736  clear
+  737  python3 app.py
+  738  python3 app.py
+  739  python3 app.py
+  740  clear
+  741  python3 app.py
+  742  python3 app.py
+  743  clear
+  744  python3 app.py
+  745  clear
+  746  python3 app.py
+  747  python3 app.py
+  748  clear
+  749  python3 app.py
+  750  python3 app.py
+  751  clear
+  752  python3 app.py
+  753  python3 app.py
+  754  python3 app.py
+  755  python3 app.py
+  756  python3 app.py
+  757  clear
+  758  clear
+  759  python3 app.py
+  760  python3 app.py
+  761  python3 app.py
+  762  clear
+  763  python3 app.py
+  764  python3 app.py
+  765  python3 app.py
+  766  cleaer
+  767  clear\\nclear
+  768  clear
+  769  clear
+  770  python3 app.py
+  771  python3 app.py
+  772  clear
+  773  python3 app.py
+  774  python3 Desktop
+  775  cd Desktop
+  776  cd fire.py
+  777  python3 app.py
+  778  python3 app.py
+  779  cd ..
+  780  cd desktop
+  781  python3 app.py
+  782  cd Fintech-Workspace
+  783  python3 app.py
+  784  python3 fire.py
+  785  python3 fire.py
+  786  python fire
+  787  import python fire
+  788  python fire
+  789  python3 fire.py
+  790  clear
+  791  python3 fire.py
+  792  python fire.py
+  793  conda activate dev
+  794  python fire.py
+  795  python fire.py
+  796  python3 fire.py
+  797  pip install fire
+  798  python3 fire.py
+  799  python3 fire.py
+  800  python3 fire.py
+  801  python3 fire.py
+  802  python3 fire.py
+  803  python3 fire.py
+  804  cd fire.py
+  805  python3 fire.py
+  806  cd Fintech-Workspace
+  807  conda activate dev
+  808  python3 cli.py
+  809  python3 cli.py
+  810  python3 cli.py --Pants=True
+  811  python3 cli.py
+  812  python3 cli.py
+  813  clear
+  814  python3 cli.py
+  815  python3 cli.py
+  816  python3 cli.py
+  817  pip install fire
+  818  python3 cli.py
+  819  python3 cli.py
+  820  clear
+  821  python3 cli.py
+  822  pip install fire
+  823  python3 cli.py
+  824  pip install fire
+  825  pip install fire
+  826  clear
+  827  python3 cli.py
+  828  from app.fire import fire
+  829  from app.fire import fire
+  830  python3 cli.py
+  831  clear
+  832  python3 cli.py
+  833  python3 cli.py
+  834  python3 cli.py
+  835  python3 cli.py
+  836  clear
+  837  python3 cli.py
+  838  cd Unsolved
+  839  python3 app.py
+  840  python3 app.py
+  841  pip install fire
+  842  pip install questionary
+  843  conda dev
+  844  conda env
+  845  clear
+  846  conda activate dev 
+  847  pip -V
+  848  pip freeze
+  849  pip install fire
+  850  pip install questionary
+  851  cd Fintech-Workspace
+  852  cd desktop
+  853  cd Fintech-Workspace
+  854  python3 fire.py
+  855  python3 cli.py
+  856  python cli.py
+  857  python cli.py --pants==True
+  858  python cli.py --pants==True
+  859  cleaer
+  860  clear
+  861  python cli.py --pants==True
+  862  python cli.py --pants==True
+  863  python cli.py --pants==True
+  864  python cli.py --pants==True
+  865  python cli.py --pants==False
+  866  python cli.py --pants==True
+  867  python cli.py --pants==False
+  868  python cli.py --pants==True
+  869  python cli.py --pants==True
+  870  cd ..
+  871  cd ..
+  872  downloads
+  873  Downloads
+  874  cd downloads
+  875  cd Adding_Fire_to_the_Loan_Qualifier_App
+  876  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  877  clear
+  878  python app.py --credit_score=750
+  879  cd Unsolved
+  880  python app.py --credit_score=750
+  881  python app.py --credit_score=750
+  882  python app.py --credit_score=750
+  883  python app.py --credit_score=750
+  884  python app.py --credit_score=750
+  885  python app.py --credit_score=750
+  886  python app.py --credit_score=750
+  887  clear
+  888  python app.py --credit_score=750
+  889  python app.py --credit_score=750
+  890  python app.py --credit_score=750
+  891  python app.py --credit_score=750
+  892  python app.py --credit_score=750
+  893  python app.py --credit_score=750
+  894  clear
+  895  python app.py --credit_score=750
+  896  python app.py --credit_score=750
+  897  python app.py --credit_score=750
+  898  python app.py --credit_score=750
+  899  app.py --help
+  900  app.py --help
+  901  cd ..
+  902  cd Solved
+  903  python app.py --credit_score=750
+  904  python app.py
+  905  python3 app.py --credit_score=750
+  906  python3 app.py --credit_score=750, debt=50, income=50
+  907  clear
+  908  python3 app.py --credit_score=750 --debt=3000 --income=50000
+  909  cd Unsolved
+  910  python3 app.py --credit_score=750 --debt=3000 --income=50000
+  911  pip install questionary
+  912  clear
+  913  python3 app.py
+  914  python3 app.py
+  915  cd..
+  916  cd ..
+  917  cd ..
+  918  cd ..
+  919  cd ..
+  920  cd ..
+  921  git config --global user.name <your first and last name>
+  922  git config --global user.name <Chance Griffin>
+  923  git config --global user.name <Chance Griffin>
+  924  git config --global user.name Chance Griffin
+  925  git config --global user.name Chance Griffin
+  926  git config --global user.email griffc5@unlv.nevada.edu
+  927  conda dev deactivate
+  928  python app.py
+  929  python app.py
+  930  python app.py
+  931  git config --global user.name Chance Griffin
+  932  git config --global user.email griffc5@unlv.nevada.edu
+  933  git config --list
+  934  git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+  935  desktop
+  936  cd desktop
+  937  git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+  938  git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+  939  git status
+  940  git add README.md
+  941  cd Business_loan_qualifier_app
+  942  git add README.md
+  943  git status
+  944  git add README.md
+  945  git status
+  946  git add README.md
+  947  git add README.md
+  948  git add README.md
+  949  git status
+  950  clear
+  951  python3 appy.py
+  952  cd ..
+  953  cd Business_loan_qualifier_app
+  954  python3 appy.py
+  955  cd Business_loan_qualifier_app
+  956  clear
+  957  cd ..
+  958  cd ..
+  959  cd desktop
+  960  cd Business_loan_qualifier_app
+  961  cd Business_loan_qualifier_app
+  962  clear
+  963  cd ..
+  964  cd downloads
+  965  cd Business_loan_qualifier_app
+  966  cd ..
+  967  cd Business_loan_qualifier_app
+  968  python3 appy.py
+  969  python3
+  970  python app.py
+  971  python3 app.py
+  972  cd ..
+  973  cd Business_loan_qualifier_app-main 
+  974  cd Business_loan_qualifier_app
+  975  python3 appy.py
+  976  cd ..
+  977  cd downloads
+  978  cd Business_loan_qualifier_app-main
+  979  python3 appy.py
+  980  python3 app.py
+  981  python app.py
+  982  cd app.py
+  983  clear
+  984  conda dev activate
+  985  conda dev activate
+  986  conda activate dev
+  987  cd app.py
+  988  clear
+  989  cd ..
+  990  cd ..
+  991  cd Business_loan_qualifier_app-main
+  992  Downloads
+  993  desktop
+  994  Desktop
+  995  cd desktop
+  996  cd Business_loan_qualifier_app-main
+  997  cd app.py
+  998  cd Business_loan_qualifier_app-main
+  999  cd Business_loan_qualifier_app
+ 1000  cd Business_loan_qualifier_app
+ 1001  cd Desktop
+ 1002  cd Busness_loan_qualifier_app-main
+ 1003  cd Business_loan_qualifier_app-main
+ 1004  cd Business_loan_qualifier_app
+ 1005  cd Busness_loan_qualifier_app
+ 1006  cd app.py
+ 1007  python app.py
+ 1008  python app.py
+ 1009  clear
+ 1010  history 50 > terminal_history.txtv
+ 1011  history 50 > terminal_history.txt
+ 1012  python app.py
+ 1013  CLEAR
+ 1014  python app.py
+ 1015  python app.py
+ 1016  python app.py
+ 1017  cleaer
+ 1018  clear
+ 1019  python app.py
+ 1020  python app.py
+ 1021  python app.py
+ 1022  python app.py
+ 1023  python app.py
+ 1024  python app.py
+ 1025  python app.py
+ 1026  clear
+ 1027  python app.py
+ 1028  python app.py
+ 1029  python app.py
+ 1030  python app.py
+ 1031  python app.py
+ 1032  python app.py
+ 1033  python app.py
+ 1034  python app.py
+ 1035  python app.py
+ 1036  cd ..
+ 1037  cd Business_loan_qualifier_app
+ 1038  python app.py
+ 1039  python app.py
+ 1040  python app.py
+ 1041  python app.py
+ 1042  python app.py
+ 1043  python app.py
+ 1044  history 50 > terminal_history.txt
+ 1045  history 50 > terminal_history.txt
+ 1046  history 50 > terminal_history.txt
